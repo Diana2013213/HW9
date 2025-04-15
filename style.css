@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #fbcfe8, #a5f3fc);
+    padding: 20px;
+    color: #222;
+    text-align: center;
+  }
+  
+  h1 {
+    background-color: #fef9c3;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .card {
+    background-color: white;
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .card img {
+    width: 150px;
+    border-radius: 10px;
+  }
+  
+  .card div {
+    text-align: left;
+  }
